@@ -1,7 +1,7 @@
 body {
 	font-family: "Roboto", sans-serif;
 	overflow-x: hidden;
-	background-color:black;
+	background-color: #fff;
 }
 
 .layout_padding {
@@ -46,7 +46,7 @@ body {
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
 	text-transform: uppercase;
 	padding: 10px 25px;
-	color: whitesmoke;
+	color: #000101;
 }
 
 a,
@@ -81,7 +81,7 @@ a:focus {
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 24px;
-	color:blue;
+	color: #fafcfd;
 }
 
 .custom_nav-container .nav_search-btn {
@@ -136,7 +136,7 @@ a:focus {
 }
 
 .slider_item-box .slider-box-detail {
-	color: #000000;
+	color: #fcfdfe;
 }
 
 .slider_item-box .slider-box-detail h1 {
@@ -151,7 +151,7 @@ a:focus {
 	height: 45px;
 	background-color: #131212;
 	border-radius: 25px;
-	color: #000505;
+	color: #fcfdfd;
 	margin-top: 70px;
 }
 
